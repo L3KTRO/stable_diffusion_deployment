@@ -34,3 +34,6 @@ docker build -t simple-stable-diffusion .
 docker run -p 5000:5000 simple-stable-diffusion
 ```
 
+# License
+
+Use this repository and this code under the StabilityIA Acceptable Use Policy https://stability.ai/use-policy
