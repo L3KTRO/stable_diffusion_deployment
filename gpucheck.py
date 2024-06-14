@@ -1,3 +1,6 @@
+# Script check if your GPU is compatible with CUDA and check if python+torch can use it #
+
+
 import torch
 
 print("CUDA is available: ", torch.cuda.is_available())
